@@ -1,3 +1,13 @@
+Syntax:
+
+CREATE TABLE table_name (
+    col1 datatype, 
+    col2 datatype,
+    col3 datatype,
+    ...
+); 
+
+
 CREATE TABLE penyanyi(
   id INT NOT NULL AUTO_INCREMENT,
   nama VARCHAR(30) NOT NULL,
