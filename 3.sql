@@ -47,3 +47,5 @@ INSERT INTO songs(judul,album_id) VALUES ('Pelangi di Malam Hari', 8);
 INSERT INTO songs(judul,album_id) VALUES ('Di Bawah Langit Ibukota', 9);
 INSERT INTO songs(judul,album_id) VALUES ('Pupus/Kasih Tak Sampai (mash-up)', 9);
 INSERT INTO songs(judul,album_id) VALUES ('Apakah Ku Jatuh Cinta', 9);
+
+Sumber-sumber: Berasal dari Wikipedia.
