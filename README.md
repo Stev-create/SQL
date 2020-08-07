@@ -1,8 +1,8 @@
 # SQL
 
-Standad Select Syntax:
+## Standad SELECT Syntax:
 
-\fbox{SELECT (DISTINCT) column, a.column, AGG_FUNC(column_or_expression), … <br>
+SELECT (DISTINCT) column, a.column, AGG_FUNC(column_or_expression), … <br>
 FROM table as t<br>
     JOIN another_table as a<br>
       ON t.column = a.column                        # kalau nama columnya sama gunakan USING(column) <br>
@@ -10,4 +10,4 @@ FROM table as t<br>
     GROUP BY column <br>
     HAVING constraint_expression <br>
     ORDER BY column ASC/DESC <br>
-    LIMIT count OFFSET COUNT; <br>}
+    LIMIT count OFFSET COUNT; <br>
